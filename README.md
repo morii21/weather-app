@@ -15,6 +15,7 @@ JavaScript (ES6+): Used for fetching API data and updating the DOM <br>
 HTML/CSS: Basic structure and styling <br>
 OpenWeatherMap API: Retrieves weather and geolocation data <br>
 Lessons Learned <br>
+
 💡 Learned how to fetch data from an API and process JSON responses <br>
 💡 Used async/await for handling asynchronous operations <br>
 💡 Practiced destructuring objects to extract specific data from API responses <br>
