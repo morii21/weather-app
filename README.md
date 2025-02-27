@@ -10,17 +10,17 @@ Features
 - Uses async/await for handling API requests
 - Provides error handling for invalid inputs
 
-Technologies Used
-JavaScript (ES6+): Used for fetching API data and updating the DOM
-HTML/CSS: Basic structure and styling
-OpenWeatherMap API: Retrieves weather and geolocation data
-Lessons Learned
-💡 Learned how to fetch data from an API and process JSON responses
-💡 Used async/await for handling asynchronous operations
-💡 Practiced destructuring objects to extract specific data from API responses
-💡 Handled errors and displayed user-friendly messages
-💡 Ensured proper image rendering by fixing incomplete URLs from API responses
-💡 Improved debugging skills using console.log() and browser DevTools
+Technologies Used <br>
+JavaScript (ES6+): Used for fetching API data and updating the DOM <br>
+HTML/CSS: Basic structure and styling <br>
+OpenWeatherMap API: Retrieves weather and geolocation data <br>
+Lessons Learned <br>
+💡 Learned how to fetch data from an API and process JSON responses <br>
+💡 Used async/await for handling asynchronous operations <br>
+💡 Practiced destructuring objects to extract specific data from API responses <br>
+💡 Handled errors and displayed user-friendly messages <br>
+💡 Ensured proper image rendering by fixing incomplete URLs from API responses <br>
+💡 Improved debugging skills using console.log() and browser DevTools <br>
 
 How to Use:
 1. Enter a city name in the input field
