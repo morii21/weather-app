@@ -4,17 +4,19 @@ A simple weather application that fetches weather data using the OpenWeatherMap 
 ---
 
 
-Features
+<h2>Features</h2> 
 - Fetches weather data using OpenWeatherMap API
 - Displays temperature, humidity, weather condition, and an icon
 - Uses async/await for handling API requests
 - Provides error handling for invalid inputs
 
-Technologies Used <br>
-JavaScript (ES6+): Used for fetching API data and updating the DOM <br>
-HTML/CSS: Basic structure and styling <br>
-OpenWeatherMap API: Retrieves weather and geolocation data <br>
-Lessons Learned <br>
+<h2>Technologies Used: </h2>  <br>
+⚙ JavaScript (ES6+): Used for fetching API data and updating the DOM <br>
+⚙ HTML/CSS: Basic structure and styling <br>
+⚙ OpenWeatherMap API: Retrieves weather and geolocation data <be>
+
+
+<h2>Lessons Learned:</h2>  <br>
 
 💡 Learned how to fetch data from an API and process JSON responses <br>
 💡 Used async/await for handling asynchronous operations <br>
