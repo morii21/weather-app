@@ -2,7 +2,7 @@
 A simple weather application that fetches weather data using the OpenWeatherMap API and displays current weather conditions based on user input.
 
 ---
-## Live Demo 🌍  
+## Live Demo  
 🔗 [Weather App Deployed Vercel] (https://weather-app-theta-azure-17.vercel.app/) 
 
 
