@@ -3,8 +3,8 @@ A simple weather application that fetches weather data using the OpenWeatherMap 
 
 ---
 ## Live Demo 🌍  
-🔗 [Weather App on Vercel](https://weather-app-theta-azure-17.vercel.app/) 
----
+🔗 [Weather App on Vercel] (https://weather-app-theta-azure-17.vercel.app/) 
+
 
 <h2>Features</h2> 
 - Fetches weather data using OpenWeatherMap API <br>
