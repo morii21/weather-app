@@ -3,7 +3,7 @@ A simple weather application that fetches weather data using the OpenWeatherMap 
 
 ---
 ## Live Demo  
-🔗 [Click this link to check out the app](https://to-do-list-app-psi-peach.vercel.app/)
+🔗 [CLICK THIS LINK TO CHECK OUT THE APP](https://weather-app-theta-azure-17.vercel.app/)
 
 
 <h2>Features</h2> 
