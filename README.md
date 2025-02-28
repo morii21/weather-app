@@ -3,7 +3,7 @@ A simple weather application that fetches weather data using the OpenWeatherMap 
 
 ---
 ## Live Demo  
-🔗 [Weather App Deployed Vercel] (https://weather-app-theta-azure-17.vercel.app/) 
+🔗 [CLICK THIS LINK TO CHECK OUT THE APP](https://weather-app-theta-azure-17.vercel.app/)
 
 
 <h2>Features</h2> 
@@ -31,3 +31,4 @@ How to Use:
 1. Enter a city name in the input field
 2. Click the "Get Weather" button
 3. View the current temperature, humidity, and weather condition with an icon
+fdfdsdsfsd
